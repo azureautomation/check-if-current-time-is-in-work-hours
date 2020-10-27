@@ -1,0 +1,20 @@
+{
+    "Author": "Beth Cooper (MSFT)",
+    "ContentSize": 2532,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/check-if-current-time-is-in-work-hours/master/Get-IsWorkHours.ps1",
+    "DownloadCount": 1145,
+    "Id": "Check-if-current-time-is-2473bc19",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 341,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-10-30T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook checks if the current time is in or out of work hours. It checks a specified work hours range and checks if today is a weekend. This can be used with other runbooks that turn on/off services during the weekend.",
+    "Title": "Check if current time is in work hours",
+    "UpdatedDate": "2014-10-30T00:00:00",
+    "Url": "https://github.com/azureautomation/check-if-current-time-is-in-work-hours",
+    "UserTags": "Utility"
+}
